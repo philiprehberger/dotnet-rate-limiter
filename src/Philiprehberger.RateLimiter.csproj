@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Philiprehberger.RateLimiter</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Philip Rehberger</Authors>
+    <Description>In-memory rate limiting with fixed window, sliding window, and token bucket algorithms</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/philiprehberger/dotnet-rate-limiter</RepositoryUrl>
+    <PackageTags>rate-limiter;throttle;token-bucket;sliding-window;api</PackageTags>
+  </PropertyGroup>
+
+</Project>
