@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.3
+
+- Add Development section to README
+- Add GenerateDocumentationFile, RepositoryType, PackageReadmeFile to .csproj
+
 ## 0.1.1 (2026-03-16)
 
 - Fix: add NuGet publishing secret

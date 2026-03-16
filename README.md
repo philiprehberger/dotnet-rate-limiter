@@ -139,6 +139,12 @@ var limiter = RateLimiterBuilder.Create()
 | `PerKey()` | Enables per-key partitioning |
 | `Build()` | Builds the configured rate limiter |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.RateLimiter.csproj --configuration Release
+```
+
 ## License
 
 MIT
