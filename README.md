@@ -6,7 +6,7 @@
 
 In-memory rate limiting with fixed window, sliding window, and token bucket algorithms.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.RateLimiter

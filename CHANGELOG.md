@@ -1,4 +1,7 @@
 # Changelog
+n## 0.1.4 (2026-03-17)
+
+- Rename Install section to Installation in README per package guide
 
 ## 0.1.3
 
