@@ -7,7 +7,7 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.RateLimiter</PackageId>
-    <Version>0.1.4</Version>
+    <Version>0.1.5</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>In-memory rate limiting with fixed window, sliding window, and token bucket algorithms</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
