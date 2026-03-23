@@ -1,5 +1,6 @@
 # Changelog
-n## 0.1.5 (2026-03-22)
+
+## 0.1.5 (2026-03-22)
 
 - Add dates to changelog entries
 
