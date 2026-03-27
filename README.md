@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-rate-limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-rate-limiter/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.RateLimiter.svg)](https://www.nuget.org/packages/Philiprehberger.RateLimiter)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-rate-limiter)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 In-memory rate limiting with fixed window, sliding window, and token bucket algorithms.
 
