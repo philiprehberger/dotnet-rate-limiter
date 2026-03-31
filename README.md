@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-rate-limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-rate-limiter/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.RateLimiter.svg)](https://www.nuget.org/packages/Philiprehberger.RateLimiter)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-rate-limiter)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-rate-limiter)](https://github.com/philiprehberger/dotnet-rate-limiter/commits/main)
 
 In-memory rate limiting with fixed window, sliding window, and token bucket algorithms.
 
@@ -146,6 +145,24 @@ var limiter = RateLimiterBuilder.Create()
 dotnet build src/Philiprehberger.RateLimiter.csproj --configuration Release
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-rate-limiter)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-rate-limiter/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-rate-limiter/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
